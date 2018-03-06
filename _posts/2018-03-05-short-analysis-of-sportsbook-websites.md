@@ -3,7 +3,7 @@ layout: post
 title: Short analysis of sportsbook websites
 ---
 
-Recently I’ve registered at different sportsbook websites to make some bets trying to earn money with the Sure Bets (I wrote this article about it). I gave up with the idea when I realized that betting houses makes this task hard. However, I’ve experienced how these websites work, and they not perform always as good as one expects when dealing with companies allegedly earning a lot of money and even showing ads on TV. I want to share this experience with a short analysis of functionalities and UX of these websites.
+Recently I’ve registered at different sportsbook websites to make some bets trying to earn money with the Sure Bets (I wrote [this article](https://marcogalluzzi.github.io/eperiencing-sure-bets/) about it). I gave up with the idea when I realized that betting houses makes this task hard. However, I’ve experienced how these websites work, and they not perform always as good as one expects when dealing with companies allegedly earning a lot of money and even showing ads on TV. I want to share this experience with a short analysis of functionalities and UX of these websites.
 
 # What am I analyzing?
 With this article I want to give an overview of the functionalities of sportsbook websites and the user experience given by them. I will highlight those facts that deviate the websites from a correct operation or usability, or they stand out in a positive manner. Therefore, this document can be used as a guide for the same or other betting houses to improve their websites.
