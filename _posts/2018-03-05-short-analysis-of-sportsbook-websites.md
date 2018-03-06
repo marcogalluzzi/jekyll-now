@@ -3,27 +3,27 @@ layout: post
 title: Short analysis of sportsbook websites
 ---
 
-Recently I’ve registered at different sportsbook websites to make some bets trying to earn money with the Sure Bets (I wrote [this article](https://marcogalluzzi.github.io/eperiencing-sure-bets/) about it). I gave up with the idea when I realized that betting houses makes this task hard. However, I’ve experienced how these websites work, and they not perform always as good as one expects when dealing with companies allegedly earning a lot of money and even showing ads on TV. I want to share this experience with a short analysis of functionalities and UX of these websites.
+Recently I’ve registered at different sportsbook websites to make some bets trying to earn money with the _Sure Bets_ (I wrote [this article](https://marcogalluzzi.github.io/eperiencing-sure-bets/) about it). I gave up with the idea when I realized that betting houses makes this task hard. However, I’ve experienced how these websites work, and they not perform always as good as one expects when dealing with companies allegedly earning a lot of money and even showing ads on TV. I want to share this experience with a short analysis of functionalities and UX of these websites.
 
 # What am I analyzing?
 With this article I want to give an overview of the functionalities of sportsbook websites and the user experience given by them. I will highlight those facts that deviate the websites from a correct operation or usability, or they stand out in a positive manner. Therefore, this document can be used as a guide for the same or other betting houses to improve their websites.
 
-I will revise only the desktop version of the websites while accessing through the Chrome browser in a Windows 10 computer.
+I will revise only the __desktop__ version of the websites while accessing through the __Chrome__ browser in a __Windows 10__ computer.
 
-The following sportsbook websites, accessed from Spain, have been taken into account:
+The following sportsbook websites, accessed from __Spain__, have been taken into account:
 
-* Marca Apuestas: https://www.marcaapuestas.es
-* Betfair: https://www.betfair.es
-* Interwetten: https://www.interwetten.es
-* William Hill: https://www.williamhill.es
-* Bwin: https://www.bwin.es
+* Marca Apuestas: [www.marcaapuestas.es](https://www.marcaapuestas.es)
+* Betfair: [www.betfair.es](https://www.betfair.es)
+* Interwetten: [www.interwetten.es](https://www.interwetten.es)
+* William Hill: [www.williamhill.es](https://www.williamhill.es)
+* Bwin: [www.bwin.es](https://www.bwin.es)
 
-I’ve chosen these betting houses because they appear in the bets-comparing website www.elcomparador.com, they are well known and they usually gather the most interesting odds.
+I’ve chosen these betting houses because they appear in the bets-comparing website [www.elcomparador.com](www.elcomparador.com), they are well known and they usually gather the most interesting odds.
 
 There are a lot of different sports and types of betting but I’ve focused on: 
 
-* Soccer, because it’s a sport that I understand well enough and it has only 3 possible outcomes
-* and only in bets on the final result (1 X 2), and not other types like result at the match break, both teams score, etc.
+* __Soccer__, because it’s a sport that I understand well enough and it has only 3 possible outcomes
+* and only in bets on the __final result__ (1 X 2), and not other types like _result at the match break_, _both teams score_, etc.
 
 # General functionalities
 In this section I analyze some general functionalities of these websites.
@@ -40,7 +40,7 @@ This should be a simple and safe process for the user.
 1. This big modal is not need for such a so short datum.
 2. I would replace the modal window with an alert box. This way the security information is still given to the user but without interrupting his/her activity.
 3. The date and time format could be more clear and meaningful for the user. I would change “2018-02-26 00:16:05” into something like “Monday, February 26, 2018 at time 00:16:05”.
-* William Hill: On the main page, when you click on the username input, the focus is lost if the window/program is changed and you go back to it later. This is a strange behavior and prevent the usage of programs like Keepass that automatize the introduction of username and password. If the first login fails you are redirected to a new page with the login form where this strange behavior doesn’t appear anymore.
+* William Hill: On the main page, when you click on the username input, the focus is lost if the window/program is changed and you go back to it later. This is a strange behavior and prevent the usage of programs like [Keepass](https://keepass.info/) that automatize the introduction of username and password. If the first login fails you are redirected to a new page with the login form where this strange behavior doesn’t appear anymore.
 
 ## Information about payment methods
 When choosing a betting house I think it’s important to know beforehand the payment methods provided, the fees applied and also the processing times. This lack of information for all the website visitors can lead to a loss of potential users from those that are undecided about what betting house to use.
@@ -136,6 +136,6 @@ While deposits are fast, withdrawals are slower and require passing through a ch
 I would like to appraise all the betting houses analyzed to summarize what I could experience in a daily use. Please see this as a personal appraisal.
 In order of preference, the websites and their appraisals are:
 
-1. Sportsbook website I would regularly use: Bwin. It’s the website where everything worked as expected. It’s fast and well designed. I haven’t practically had any complaint.
-2. Sportsbook website I would occasionally use: Betfair and William Hill. I’ve had a few but important complaints about this websites. Besides, the design of the William Hill website could be improved. In general, I’ve to say they work fairly well.
-3. Sportsbook website I wouldn’t like to use: Interwetten and Marca Apuestas. Definitively, these websites are not appealing and/or not very usable. They even have some error and/or they are slow. Deposits and withdrawals have fees not clearly shown and/or they take quite a while.
+1. Sportsbook website _I would regularly use_: __Bwin__. It’s the website where everything worked as expected. It’s fast and well designed. I haven’t practically had any complaint.
+2. Sportsbook website _I would occasionally use_: __Betfair__ and __William Hill__. I’ve had a few but important complaints about this websites. Besides, the design of the William Hill website could be improved. In general, I’ve to say they work fairly well.
+3. Sportsbook website _I wouldn’t like to use_: __Interwetten__ and __Marca Apuestas__. Definitively, these websites are not appealing and/or not very usable. They even have some error and/or they are slow. Deposits and withdrawals have fees not clearly shown and/or they take quite a while.
