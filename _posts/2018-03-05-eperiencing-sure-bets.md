@@ -3,7 +3,7 @@ layout: post
 title: Experiencing Sure Bets
 ---
 
-In this article I want to share my knowledge and experience trying to make money with Sure Bets. During the trip I could practice web scraping with a simple JAVA program I wrote. This program can be found [here](https://github.com/marcogalluzzi/surebets). And, at the end, I could leverage the gained experience to write an article comparing the sportsbook websites. This article can be found [here]({{ site.baseurl }}{% post_url 2018-03-05-short-analysis-of-sportsbook-websites %}).
+In this article I want to share my knowledge and experience trying to make money with Sure Bets. During the trip I could practice web scraping with a simple JAVA program I wrote. This program can be found [here](https://github.com/marcogalluzzi/surebets). And, at the end, I could leverage the gained experience to write an article comparing the sportsbook websites. This article can be found here.
 
 #How betting houses earn money with sports bets
 One day, a friend of mine working for a company involved in the calculation of probabilities for sports bets told me how betting houses calculate the odds for a soccer game in order to earn money. In short, they make the sum of odds for the different options, 1 X 2, to be less to what estimated probabilities dictate. Doing that the betting houses always retain between the 2% and 6% of the bets. This can be better understood with an example.
@@ -43,7 +43,7 @@ Wow! This was looking interesting. However, to try to bet on a regular basis to 
 
 Many functionalities came to my mind for the software I was about to build, but I didn’t know the world of the betting houses so I decided to address the project in this way: I would add functionalities step by step and, at the same time, I would register to the different sportsbook websites and test that the bets defined as “sure” could be done.
 
-The project started and it was looking promising. Even my piece of code was working properly. But  the betting houses started adding obstacles and I decided to stop the project. What remains is the experience with the written source code and, above all, the experience of verifying how the sportsbook websites work, which is not always fine. From this experience I’ve written a [comparison review]({{ site.baseurl }}{% post_url 2018-03-05-short-analysis-of-sportsbook-websites %}). 
+The project started and it was looking promising. Even my piece of code was working properly. But  the betting houses started adding obstacles and I decided to stop the project. What remains is the experience with the written source code and, above all, the experience of verifying how the sportsbook websites work, which is not always fine. From this experience I’ve written a comparison review. 
 
 On [GitHub](https://github.com/marcogalluzzi/surebets) you can see the software I built to produce a listing of sure bets that helps to decide on which website to bet. It’s a very simple program. It could be improved and it could have more functionalities but I didn’t continue developing it since I decided not to invest more time with the Sure Bets.
 
