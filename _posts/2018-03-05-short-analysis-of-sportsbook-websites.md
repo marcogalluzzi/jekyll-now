@@ -99,7 +99,7 @@ The analyzed betting houses usually gather the most interesting odds for a speci
 ## Betting
 Once the desired match is found, the user should be able to bet on a specific result easily and quickly. In particular, writing the amount of money to bet should be independent of the use of a comma or a point character and expected gains should be visible enough. Additionally, the user should be able to, optionally, confirm the bet as a second step after its validation. Finally, there’s no need to say that the expected gains should be correctly calculated.
 
-* Marca Apuestas: Both the point and the comma characters are allowed for decimals. Calculations are not always correct, since once I found a case where an odd of 2.38 was not giving the expected gains. I came to the conclusion that the actual odd was 2.375. This kind of errors are quite serious since they can affect the user money.
+* Marca Apuestas: Both the point and the comma characters are allowed for decimals. Calculations are not always correct, since once I found a case where odds of 2.38 were not giving the expected gains. I came to the conclusion that the actual odds were 2.375. This kind of errors are quite serious since they can affect the user money.
 * Betfair: It only allows the point character for decimal values which is annoying because in Spain the comma character is used and you need to remember to use a different character. A confirmation button can be added after validating the bet.
 * Interwetten: Both the point and the comma characters are allowed for decimals. There is no option for confirming the bet after the validation.
 * William Hill: Both the point and the comma characters are allowed for decimals. There is no option for confirming the bet after the validation.
